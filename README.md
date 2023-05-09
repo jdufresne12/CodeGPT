@@ -1,2 +1,12 @@
 # OpenAI
-Using an OpenAI api to code
+This application utilizes an OpenAI API to help create code!
+## Also Using:
+- 
+- 
+- 
+
+
+
+###### https://www.youtube.com/watch?v=2FeymQoKvrk @00:00
+
+
