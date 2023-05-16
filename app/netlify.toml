@@ -1,8 +1,8 @@
 [build]
-  command = "npm run build" # or any command needed to build your frontend
-  functions = "backend/dist" # path to your built backend code
+  command = "npm run dev" # or any command needed to build your frontend
+  functions = "app\server\server.js" # path to your built backend code
 
 [[redirects]]
   from = "/api/*"
-  to = "http://localhost:3000/:splat" # assuming your backend runs on port 3000
+  to = "http://localhost:5000"
   status = 200
