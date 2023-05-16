@@ -4,5 +4,5 @@ This application utilizes an OpenAI API to help create code!
 - Vite
 - Vanilla Template
 
-
-###### https://www.youtube.com/watch?v=2FeymQoKvrk @46:15
+###### https://www.youtube.com/watch?v=2FeymQoKvrk 
+###### CodeGPT Website URL
