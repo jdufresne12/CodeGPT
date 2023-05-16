@@ -1,8 +1,0 @@
-[build]
-  command = "npm run dev" # or any command needed to build your frontend
-  functions = "app\server\server.js" # path to your built backend code
-
-[[redirects]]
-  from = "/api/*"
-  to = "http://localhost:5000"
-  status = 200
