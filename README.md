@@ -5,4 +5,4 @@ This application utilizes an OpenAI API to help create code!
 - Vanilla Template
 
 ###### https://www.youtube.com/watch?v=2FeymQoKvrk 
-###### CodeGPT Website URL
+###### https://codegpt-3.netlify.app/
